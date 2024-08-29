@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatel36-it&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatel36-it" /> </p>
 
-
 - 🌱 I’m currently learning windows base application **WinForms, c#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvpatel36-it](https://github.com/dhruvpatel36-it)
@@ -14,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhruvp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvp1" height="30" width="40" /></a>
+<a href="https://twitter.com/dhruvpatel_1908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvpatel_1908" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruvpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvpatel" height="30" width="40" /></a>
+<a href="https://fb.com/dhruv.patidar.1848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruv.patidar.1848" height="30" width="40" /></a>
 <a href="https://instagram.com/x_mate_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_mate_02" height="30" width="40" /></a>
 </p>
 
