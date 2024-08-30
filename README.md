@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Windows base application.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhruvpatel36-it/](https://github.com/dhruvpatel36-it/)
+- 👨‍💻 Some of my basic practice projects are available at [https://github.com/dhruvpatel36-it/](https://github.com/dhruvpatel36-it/)
 
 - 💬 Ask me about **Angular,C#,Django**
 
