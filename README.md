@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatel36-it&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatel36-it" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/dhruvp1" target="blank"><img src="https://img.shields.io/linkedin/follow/@dhruvpatel_1908?logo=linkedin&style=for-the-badge" alt="@dhruvpatel_1908" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dhruvpatel_1908" target="blank"><img src="https://img.shields.io/twitter/follow/@dhruvpatel_1908?logo=twitter&style=for-the-badge" alt="@dhruvpatel_1908" /></a> </p>
 
 - 🌱 I’m currently learning **Windows base application.**
 
