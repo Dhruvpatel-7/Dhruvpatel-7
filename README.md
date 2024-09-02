@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatel36-it&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatel36-it" /> </p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvp1)
-
 - 🌱 I’m currently learning **Windows base application.**
 
 - 👨‍💻 Some of my basic practice projects are available at [https://github.com/dhruvpatel36-it/](https://github.com/dhruvpatel36-it/)
