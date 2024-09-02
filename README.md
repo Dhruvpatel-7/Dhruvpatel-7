@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my basic practice projects are available at [https://github.com/dhruvpatel36-it/](https://github.com/dhruvpatel36-it/)
 
-- 💬 Ask me about **Angular,C#,Django**
+- 💬 Ask me about **Angular,C#,Django,.net**
 
 - 📫 How to reach me **dnp1982002@gmail.com**
 
