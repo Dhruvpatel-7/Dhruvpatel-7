@@ -6,7 +6,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Dhruvpatel-7/](https://github.com/Dhruvpatel-7/)
 
-- 💬 Ask me about **Angular,C#,Django,.net**
+- 💬 Ask me about **DSA,Sql,Angular,C#,Django,.net**
 
 - 📫 How to reach me **dnp1982002@gmail.com**
 
