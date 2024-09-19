@@ -24,7 +24,7 @@
 
 <h3 align="left">GitHub Status:</h3>
 
-| <a href="https://github.com/Dhruvpatel-7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvpatel-7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dhruv's github stats" /></a> | <a href="https://github.com/Dhruvpatel-7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpatel-7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ![](https://github-readme-stats.vercel.app/api?username=Dhruvpatel-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpatel-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 <h3 align="left">Languages and Tools:</h3>
 
