@@ -2,7 +2,7 @@
 <h3 align="center">A passionate  full stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvpatel-7&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvpatel-7" /> </p>
 
-- 🌱 I’m currently learning **Windows base application.**
+- 🌱 I’m currently A **FullStack Developer(Angular,.net core,SSMS).**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Dhruvpatel-7/](https://github.com/Dhruvpatel-7/)
 
