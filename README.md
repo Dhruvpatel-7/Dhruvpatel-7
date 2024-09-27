@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **DSA,Sql,Angular,C#,Django,.net**
 
-- 📫 How to reach me **dnp1982002@gmail.com**
+- 📫 Contact me : **dnp1982002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
