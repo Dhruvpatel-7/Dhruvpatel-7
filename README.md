@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently A **FullStack Developer(Angular,.net core,SSMS).**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/Dhruvpatel-7/](https://github.com/Dhruvpatel-7/)
-
 - 💬 Ask me about **DSA,Sql,Angular,C#,Django,.net**
 
 - 📫 Contact me : **dnp1982002@gmail.com**
