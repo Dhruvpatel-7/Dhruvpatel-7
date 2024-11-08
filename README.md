@@ -32,7 +32,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dhruvpatel-7&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=810)](https://git.io/streak-stats)
 
-![snake](https://github.com/Platane/snk/workflows/Snake%20Card/badge.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
 
