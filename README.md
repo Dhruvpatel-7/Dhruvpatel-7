@@ -23,7 +23,7 @@
 
 <h3 align="left">GitHub Status:</h3>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dhruvpatel-7" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpatel-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="196" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dhruvpatel-7" width="480" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpatel-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="190" />
 
 
 <h3 align="left">Languages and Tools:</h3>
